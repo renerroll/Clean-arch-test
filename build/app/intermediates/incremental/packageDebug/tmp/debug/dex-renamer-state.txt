@@ -1,0 +1,4 @@
+#Thu Jan 19 15:50:55 EET 2023
+base.0=/Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

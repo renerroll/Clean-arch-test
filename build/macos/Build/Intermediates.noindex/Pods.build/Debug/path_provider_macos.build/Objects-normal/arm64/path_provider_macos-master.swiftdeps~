@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6f99aa04ea13c83e4dbe8e6d89878d1b679fa754322d5294819392d24cda367f"
+build_start_time: [1674135463, 682440996]
+build_end_time: [1674135463, 699455022]
+inputs:
+  ? "/Users/renerroll/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.7/macos/Classes/PathProviderPlugin.swift"
+  : !private [1673652429, 363168954]
+  "/Users/renerroll/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.7/macos/Classes/messages.g.swift": !private [1673652429, 362812280]

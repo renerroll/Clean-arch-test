@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/renerroll/development/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.2.3/macos/Classes/SqfliteOperation.m \
+  /Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/build/macos/Build/Intermediates.noindex/Pods.build/Debug/sqflite.build/module.modulemap \
+  /Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/macos/Pods/Target\ Support\ Files/sqflite/sqflite-prefix.pch \
+  /Users/renerroll/development/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.2.3/macos/Classes/SqfliteOperation.h \
+  /Users/renerroll/development/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.2.3/macos/Classes/SqfliteImport.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Modules/module.modulemap \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterViewController.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterTexture.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPluginMacOS.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPlatformViews.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPluginRegistrarMacOS.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterEngine.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterDartProject.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterCodecs.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterChannels.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterMacros.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterAppDelegate.h \
+  /Users/renerroll/development/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterMacOS.h \
+  /Users/renerroll/development/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.2.3/macos/Classes/SqflitePlugin.h \
+  /Users/renerroll/development/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.2.3/macos/Classes/SqfliteFmdbImport.m \
+  /Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/macos/Pods/FMDB/src/fmdb/FMDB.h \
+  /Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FMDB.build/module.modulemap \
+  /Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/macos/Pods/FMDB/src/fmdb/FMDatabaseQueue.h \
+  /Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/macos/Pods/FMDB/src/fmdb/FMDatabaseAdditions.h \
+  /Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/macos/Pods/FMDB/src/fmdb/FMDatabasePool.h \
+  /Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/macos/Pods/FMDB/src/fmdb/FMResultSet.h \
+  /Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/macos/Pods/FMDB/src/fmdb/FMDatabase.h \
+  /Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/macos/Pods/Target\ Support\ Files/FMDB/FMDB-umbrella.h

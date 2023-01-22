@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "cbb0f7d9c02af4ba7893521392460f01a7b7d0b1ebdfae4c36823f9305560fa9"
+build_start_time: [1673960007, 535790920]
+build_end_time: [1673960007, 620347976]
+inputs:
+  "/Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1673959978, 331163]
+  "/Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/macos/Runner/AppDelegate.swift": !private [1663169498, 0]
+  "/Users/renerroll/AndroidStudioProjects/rickandmorty/rick_and_morty/macos/Runner/MainFlutterWindow.swift": !private [1663169498, 0]
