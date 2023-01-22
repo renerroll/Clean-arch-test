@@ -1,16 +1,8 @@
 # rick_and_morty
+Clean arch implementation with BloC/Cubit and Service Locator Get_it. 
+Implementation of independent Repo, Domain and Widget/presentation levels
 
-A new Flutter project.
+Screenshot of Ios version
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/renerroll/test_graphtest/blob/001f561c8d0638517caca6714dfd9e4fb1f6b368/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202023-01-14%20at%2017.27.32.png)
+![alt text](https://github.com/renerroll/test_graphtest/blob/001f561c8d0638517caca6714dfd9e4fb1f6b368/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202023-01-14%20at%2017.27.37.png)
